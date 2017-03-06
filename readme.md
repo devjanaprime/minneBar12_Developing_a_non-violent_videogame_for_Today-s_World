@@ -1,6 +1,6 @@
 Developing a non-violent videogame for Today's World
 ====================================================
--
+
 by [devnari](http://devnari.com)
 
 MinneBar12 3/25/2017 
@@ -12,7 +12,7 @@ Level Play 4-5 min
 
 Segments (5:30 each, max)
 ====================
--
+
 - Art Direction (a)
 - Platform support (d)
  - pc/mac is easy on unity

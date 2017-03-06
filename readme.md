@@ -5,10 +5,11 @@ by [devnari](http://devnari.com)
 
 MinneBar12 3/25/2017 
 
-Section 1
+Intro
 ---------
-Intro 1-2 min
-Level Play 4-5 min
+- Who are we
+- What is Newt One?
+- Level Play 4-5 min
 
 Segments (5:30 each, max)
 ====================
@@ -30,8 +31,10 @@ Segments (5:30 each, max)
  - history
  - mostly agile
  - stories/tasks = ticket
- - git + bitbucket - Ovrlord
+ - git + bitbucket 
+ - Ovrlord
  - moved to montly builds
 
 End/QA
 ======
+- time permitting

@@ -15,18 +15,29 @@ Segments (5:30 each, max)
 ====================
 
 - Art Direction (a)
+ - Inspirations
+ - Sketches
+ - colors
 - Platform support (d)
- - pc/mac is easy on unity
+ - pc/mac is easy on Unity
  - linux was an early target, but early tests were not fun
  - controller support/UnCL
  - decision to go for XBOne
  - building for to XBOne
 - Level Design (a)
+ - Inspirations
+ - Process
+ - Realms
+ - Emergent features
 - Sound System (d)
  - drone vs. mix
  - stems for mix
  - playable demo
 - Art Pipeline (a)
+ - Maya pipeline and export
+ - texture mapping, uvw unwrapping
+ - FBX export
+ - in-engine
 - Project Management (d)
  - history
  - mostly agile

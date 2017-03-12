@@ -18,7 +18,7 @@ Segments (5:30 each, max)
  - Inspirations
  - Sketches
  - colors
-- Platform support (d)
+- Platform/Controller support (d)
  - pc/mac is easy on Unity
  - linux was an early target, but early tests were not fun
  - controller support/UnCL

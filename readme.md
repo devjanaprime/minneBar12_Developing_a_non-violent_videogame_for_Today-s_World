@@ -34,7 +34,9 @@ Level Design (a)
  - Process
  - Realms
  - Emergent features
-- Sound System (d)
+ 
+Sound System (d)
+----------------
  - drone vs. mix
  - stems for mix
  - playable demo

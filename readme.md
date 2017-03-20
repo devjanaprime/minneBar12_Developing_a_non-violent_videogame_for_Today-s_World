@@ -14,17 +14,20 @@ Intro
 Segments (5:30 each, max)
 ====================
 
-- Art Direction (a)
+Art Direction (a)
+-----------------
  - Inspirations
  - Sketches
  - colors
-- Platform/Controller support (d)
+Platform/Controller support (d)
+-------------------------------
  - pc/mac is easy on Unity
  - linux was an early target, but early tests were not fun
  - controller support/UnCL
  - decision to go for XBOne
  - building for to XBOne
-- Level Design (a)
+Level Design (a)
+----------------
  - Inspirations
  - Process
  - Realms
@@ -33,12 +36,14 @@ Segments (5:30 each, max)
  - drone vs. mix
  - stems for mix
  - playable demo
-- Art Pipeline (a)
+Art Pipeline (a)
+----------------
  - Maya pipeline and export
  - texture mapping, uvw unwrapping
  - FBX export
  - in-engine
-- Project Management (d)
+Project Management (d)
+----------------------
  - history
  - mostly agile
  - stories/tasks = ticket

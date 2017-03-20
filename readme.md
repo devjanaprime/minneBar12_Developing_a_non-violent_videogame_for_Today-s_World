@@ -19,6 +19,7 @@ Art Direction (a)
  - Inspirations
  - Sketches
  - colors
+ 
 Platform/Controller support (d)
 -------------------------------
  - pc/mac is easy on Unity
@@ -26,6 +27,7 @@ Platform/Controller support (d)
  - controller support/UnCL
  - decision to go for XBOne
  - building for to XBOne
+
 Level Design (a)
 ----------------
  - Inspirations
@@ -36,12 +38,14 @@ Level Design (a)
  - drone vs. mix
  - stems for mix
  - playable demo
+
 Art Pipeline (a)
 ----------------
  - Maya pipeline and export
  - texture mapping, uvw unwrapping
  - FBX export
  - in-engine
+
 Project Management (d)
 ----------------------
  - history

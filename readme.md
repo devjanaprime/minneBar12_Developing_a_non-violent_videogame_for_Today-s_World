@@ -24,6 +24,7 @@ Platform/Controller support (d)
 -------------------------------
  - pc/mac is easy on Unity
  - linux was an early target, but early tests were not fun
+ - JavaScript for Unity demo
  - controller support/UnCL
  - decision to go for XBOne
  - building for to XBOne
@@ -37,6 +38,7 @@ Level Design (a)
  
 Sound System (d)
 ----------------
+ - overview
  - drone vs. mix
  - stems for mix
  - playable demo

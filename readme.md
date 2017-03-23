@@ -52,11 +52,11 @@ Level Design (a)
 
 ![ld5](http://i.imgur.com/73OrrvT.png)
 
-![ld6](LD5.png.png)
+![ld6](LD5.png)
 
-![ld7](LD6.png.png)
+![ld7](LD6.png)
 
-![ld8](LD7.png.png)
+![ld8](LD7.png)
  
 Level Music System
 -------------------

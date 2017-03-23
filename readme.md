@@ -75,7 +75,8 @@ Level Music System
 
 Project Management/Evolution
 ----------------------------
- - history
+ - Domains of Play, player interests profile
+![domains of play](newtDomainsOfPlay.png)
  - mostly agile
  - stories/tasks = ticket
  - git + bitbucket 

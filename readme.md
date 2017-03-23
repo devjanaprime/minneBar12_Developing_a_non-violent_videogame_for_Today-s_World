@@ -51,6 +51,12 @@ Level Design (a)
 ![ld4](http://i.imgur.com/9QY1C50.png)
 
 ![ld5](http://i.imgur.com/73OrrvT.png)
+
+![ld6](LD5.png.png)
+
+![ld7](LD6.png.png)
+
+![ld8](LD7.png.png)
  
 Level Music System
 -------------------

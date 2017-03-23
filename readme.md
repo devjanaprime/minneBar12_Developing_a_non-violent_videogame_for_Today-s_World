@@ -42,10 +42,15 @@ Platform/Controller support (d)
 
 Level Design (a)
 ----------------
- - Inspirations
- - Process
- - Realms
- - Emergent features
+![ld1](http://i.imgur.com/7Tycv2z.png)
+
+![ld2](http://i.imgur.com/Eb5PyQw.png)
+
+![ld3](http://i.imgur.com/5N15Xjq.png)
+
+![ld4](http://i.imgur.com/9QY1C50.png)
+
+![ld5](http://i.imgur.com/73OrrvT.png)
  
 Sound System (d)
 ----------------

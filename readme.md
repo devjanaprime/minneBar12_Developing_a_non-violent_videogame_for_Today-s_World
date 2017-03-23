@@ -28,8 +28,8 @@ Art Direction
 ![Colors5](Col5.png)
 
  
-Platform/Controller support (d)
--------------------------------
+Platform/Controller support
+---------------------------
  - pc/mac is easy on Unity
  - linux was an early target, but early tests were not fun
  - JavaScript for Unity demo
@@ -45,8 +45,8 @@ Platform/Controller support (d)
 ![c2](c_xboneBuild0.jpg)
 
 
-Level Design (a)
-----------------
+Level Design
+------------
 ![ld1](http://i.imgur.com/7Tycv2z.png)
 
 ![ld2](http://i.imgur.com/Eb5PyQw.png)

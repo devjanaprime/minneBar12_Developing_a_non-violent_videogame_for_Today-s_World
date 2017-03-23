@@ -52,28 +52,21 @@ Level Design (a)
 
 ![ld5](http://i.imgur.com/73OrrvT.png)
  
-Sound System (d)
-----------------
- - overview
- - drone vs. mix
- - stems for mix
- - playable demo
+Level Music System
+-------------------
+- overvoew
+![level music system](http://i.imgur.com/xkYgI2E.png)
+- playable demo
 
-Art Pipeline (a)
-----------------
- - Maya pipeline and export
- - texture mapping, uvw unwrapping
- - FBX export
- - in-engine
-
-Project Management (d)
-----------------------
+Project Management/Evolution
+----------------------------
  - history
  - mostly agile
  - stories/tasks = ticket
  - git + bitbucket 
  - Ovrlord
  - moved to montly builds
+![overview1](http://i.imgur.com/MpIJKl1.png)
 
 End/QA
 ======

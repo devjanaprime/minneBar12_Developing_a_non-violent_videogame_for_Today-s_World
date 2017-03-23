@@ -14,8 +14,8 @@ Intro
 Segments (5:30 each, max)
 ====================
 
-Art Direction (a)
------------------
+Art Direction
+-------------
 ![Models1](MO1.png)
 
 ![Models2](MO2.png)

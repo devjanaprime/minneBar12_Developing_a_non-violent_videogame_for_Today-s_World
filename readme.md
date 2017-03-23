@@ -20,6 +20,16 @@ Art Direction (a)
 
 ![Models2](MO2.png)
 
+![Colors1](Col1.png)
+
+![Colors2](Col2.png)
+
+![Colors3](Col3.png)
+
+![Colors4](Col4.png)
+
+![Colors5](Col5.png)
+
  
 Platform/Controller support (d)
 -------------------------------

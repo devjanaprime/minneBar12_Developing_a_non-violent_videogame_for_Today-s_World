@@ -58,9 +58,13 @@ Level Design (a)
 
 ![ld8](LD7.png)
  
+![ld9](LD8.png)
+
+![ld10](LD9.png)
+
 Level Music System
 -------------------
-- overvoew
+- overview
 ![level music system](http://i.imgur.com/xkYgI2E.png)
 - playable demo
 

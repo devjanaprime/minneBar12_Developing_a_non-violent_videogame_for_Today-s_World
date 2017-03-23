@@ -35,14 +35,14 @@ Platform/Controller support (d)
  - JavaScript for Unity demo
  - controller support/UnCL
  
- ![c0](c_supportedController.png)
+ ![c0](c_supportedController.jpg)
  
  - decision to go for XBOne
  
- ![c1](c_sdk.png)
+ ![c1](c_sdk.jpg)
  
  - building for to XBOne
-![c2](c_xboneBuild0.png)
+![c2](c_xboneBuild0.jpg)
 
 
 Level Design (a)

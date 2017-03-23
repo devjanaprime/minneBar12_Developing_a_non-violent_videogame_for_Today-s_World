@@ -11,9 +11,6 @@ Intro
 - What is Newt One?
 - Level Play 4-5 min
 
-Segments (5:30 each, max)
-====================
-
 Art Direction
 -------------
 ![Models1](MO1.png)
@@ -37,8 +34,16 @@ Platform/Controller support (d)
  - linux was an early target, but early tests were not fun
  - JavaScript for Unity demo
  - controller support/UnCL
+ 
+ ![c0](c_supportedController.png)
+ 
  - decision to go for XBOne
+ 
+ ![c1](c_sdk.png)
+ 
  - building for to XBOne
+![c2](c_xboneBuild0.png)
+
 
 Level Design (a)
 ----------------

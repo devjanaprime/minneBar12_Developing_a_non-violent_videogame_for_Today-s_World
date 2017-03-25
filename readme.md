@@ -150,4 +150,4 @@ Project Management
  - stories/tasks = ticket
  - git + bitbucket 
  - Ovrlord
- - moved to montly builds
+ - moved to monthly builds

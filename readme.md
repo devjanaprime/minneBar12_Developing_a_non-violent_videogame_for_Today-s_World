@@ -82,38 +82,35 @@ Emergent Features/Adjustments
 -----------------------------
 - originally thought only back-forth movers would be enough
 
-![simple mover](http://i.giphy.com/wJBvOcuQGQ4wM.gif)
+![simple mover](movers.gif)
 
 - started using movers in creative ways in level editors
 
-![ice platforms](http://i.giphy.com/ao8jlGusmfFPq.gif)
+![ice platforms](manyMovers.gif)
 
 - evoled to pathing movers
 
-![path mover](http://i.giphy.com/12VgkJtVNatuhi.gif)
+![path mover](pathMovers.gif)
 
 - one level needs path a mover that stops at last position
 
 - *outfits/lives/notes/coins*
 - started as coins
 
-![coins](http://i.imgur.com/IzUyEZX.gif)
+![coins](coins.gif)
 
 - 30/level
 - became notes
 
-![notes](http://i.giphy.com/zmgRgFI3Xtvj2.gif)
+![notes](notes.gif)
 
 - 50 for an extra life
 
-![extra life](http://i.giphy.com/cB4ukcrbK9lfi.gif)
+![extra life](lives.gif)
 
 - asked "why do you have lives?" at MinneBar 2016
 - observed many players stop playing when out of lives at TEDx Minne 2016
 - now 50 for an outfit upgrade
-
-![first in-game outfits](http://i.imgur.com/YWOoPvt.png)
-
 - when player "dies" the respawn sound is more happy (respawn, not death)
 
 - *Disruptors*
@@ -121,15 +118,15 @@ Emergent Features/Adjustments
 - prototyped and iterated
 - started as crystals only
 
-![disruptor prototype](http://i.giphy.com/1O56HXGkmcNUI.gif)
+![disruptor prototype](disruptors1.gif)
 - evolved in a Slack convo
  
-![disruptors convo](http://i.imgur.com/EYEMZZh.png)
+![disruptors convo](disruptors2.png)
 
-![updated model](http://i.giphy.com/PqKEG8xOsARva.gif)
+![updated model](disruptors3.gif)
 - juiced it
 
-![juice](http://i.giphy.com/whuC8e1GX7xx6.gif)
+![juice](disruptors4.gif)
 - added bubble
 
 - *Leaderboards*

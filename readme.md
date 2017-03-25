@@ -75,8 +75,6 @@ Level Music System
 
 Project Management/Evolution
 ----------------------------
- - Domains of Play, player interests profile
-![domains of play](newtDomains.png)
 
 Emergent Features/Adjustments
 -----------------------------
@@ -139,17 +137,19 @@ Emergent Features/Adjustments
 - *Enemies/NPCs*
 - originally standard 3D platformer (jump on enemies)
 
-![oldschool](http://i.giphy.com/kMKAzu88RozbW.gif)
 
-- we tried a bunch of them
+Domains of Play, player interests profile
+-----------------------------------------
+![domains of play](newtDomains.png)
 
-![enemy projectile](http://i.giphy.com/ypsGwe0VutBHG.gif)
-
+Project Management
+------------------
  - mostly agile
  - stories/tasks = ticket
  - git + bitbucket 
  - Ovrlord
  - moved to montly builds
+ 
 ![overview1](http://i.imgur.com/MpIJKl1.png)
 
 End/QA

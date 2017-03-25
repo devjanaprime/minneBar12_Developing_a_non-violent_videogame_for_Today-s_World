@@ -149,9 +149,3 @@ Project Management
  - git + bitbucket 
  - Ovrlord
  - moved to montly builds
- 
-![overview1](http://i.imgur.com/MpIJKl1.png)
-
-End/QA
-======
-- time permitting

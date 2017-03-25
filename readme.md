@@ -77,7 +77,10 @@ Project Management/Evolution
 ----------------------------
  - Domains of Play, player interests profile
 ![domains of play](newtDomains.png)
-* originally thought only back-forth movers would be enough
+
+Emergent Features/Adjustments
+-----------------------------
+- originally thought only back-forth movers would be enough
 
 ![simple mover](http://i.giphy.com/wJBvOcuQGQ4wM.gif)
 
@@ -113,8 +116,7 @@ Project Management/Evolution
 
 - when player "dies" the respawn sound is more happy (respawn, not death)
 
-Disruptors
-----------
+- *Disruptors*
 - started as Krystal's idea
 - prototyped and iterated
 - started as crystals only
